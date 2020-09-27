@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: seagreen;
+    
+}
+
+img {
+    padding: 10px;
+    height: 300px;
+    margin: 30px;
+    border: dotted;
+}
